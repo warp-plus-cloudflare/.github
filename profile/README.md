@@ -1,3 +1,4 @@
 # Warp Plus Cloudflare
 
-project for getting unlimited GB on Warp+
+Project to get unlimited gigabytes on Warp+
+This project is developed with Python and C# languages.
